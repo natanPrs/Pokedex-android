@@ -5,11 +5,11 @@ plugins {
 
 android {
     namespace = "com.prs.pokedex_android"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.prs.pokedex_android"
-        minSdk = 16
+        minSdk = 21
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
